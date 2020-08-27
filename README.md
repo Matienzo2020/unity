@@ -1,6 +1,6 @@
 ServiceDesk !
 
-Esto es un espacion para el Proyecto de la Mesa de aYUDA de DTV.
+Esto es un espacio para el Proyecto de la Mesa de aYUDA de DTV.
 
 Sièntase libre de usarla.
  
